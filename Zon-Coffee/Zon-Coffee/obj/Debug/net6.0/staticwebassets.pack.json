@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\client\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\client\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\client\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\client\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\client\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\client\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\slick.css",
+      "PackagePath": "staticwebassets\\client\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\css\\style.css",
+      "PackagePath": "staticwebassets\\client\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\client\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\client\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\client\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\client\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\client\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\client\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\client\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\about.png",
+      "PackagePath": "staticwebassets\\client\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\coff.png",
+      "PackagePath": "staticwebassets\\client\\images\\coff.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\coff_img.png",
+      "PackagePath": "staticwebassets\\client\\images\\coff_img.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\footer_af.png",
+      "PackagePath": "staticwebassets\\client\\images\\footer_af.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\footer_be.png",
+      "PackagePath": "staticwebassets\\client\\images\\footer_be.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\client\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\client\\images\\menu_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\ser_img1.png",
+      "PackagePath": "staticwebassets\\client\\images\\ser_img1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\ser_img2.png",
+      "PackagePath": "staticwebassets\\client\\images\\ser_img2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\ser_img3.png",
+      "PackagePath": "staticwebassets\\client\\images\\ser_img3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\images\\test_pro.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\test_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\client\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\client\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\custom.js",
+      "PackagePath": "staticwebassets\\client\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\.DS_Store",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\client\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Zon-Coffee\\Zon-Coffee\\Zon-Coffee\\wwwroot\\client\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\client\\js\\slider-setting.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Zon-Coffee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Zon-Coffee.props",
+      "PackagePath": "build\\Zon-Coffee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Zon-Coffee.props",
+      "PackagePath": "buildMultiTargeting\\Zon-Coffee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Zon-Coffee.props",
+      "PackagePath": "buildTransitive\\Zon-Coffee.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
